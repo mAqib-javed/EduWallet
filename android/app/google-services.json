@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73681876759",
+    "project_id": "edu-wallet-53299",
+    "storage_bucket": "edu-wallet-53299.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73681876759:android:72408373bcd10d21752952",
+        "android_client_info": {
+          "package_name": "com.wallet.student.finance.app2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxGVSLKLNLt9WrC3HdSHOhoNbvmMR9U4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
